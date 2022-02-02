@@ -1,4 +1,4 @@
-# The new web home of Shane Doucette
+# The web home of Shane Doucette
 
 👋 Hello.  
 
