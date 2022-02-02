@@ -17,8 +17,8 @@
 - 🚴‍♀️ ride my bike for exercise and fun
 - 📷 practice photography
 
-I've been hanging around on the Internet long enough that I think Internet should be capitalised. I think I'll settle here for a spell.  
+🏄‍♀️ I've been hanging around on the Internet long enough that I think Internet should be capitalised. I think I'll settle here for a spell.  
 
-If you'd like to talk with me, you can reach me at shane «at» doucette «dot» org.
+📧 If you'd like to talk with me, you can reach me at shane «at» doucette «dot» org.
 
 😻
