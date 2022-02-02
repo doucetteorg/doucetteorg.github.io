@@ -21,4 +21,4 @@
 
 📧 If you'd like to talk with me, you can reach me at shane «at» doucette «dot» org.
 
-😻
+[😻](cat.jpg)
