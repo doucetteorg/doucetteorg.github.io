@@ -4,7 +4,7 @@
 
 📛 My name is Shane Doucette.  
 
-📍 I am from Saskatoon, Saskatchewan, Canada.  
+📍 I live in Saskatoon, Saskatchewan, Canada.  
 
 💻 Professionally, I am an IT Specialist at a little company called [zu](https://zu.com).  
 
