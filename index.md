@@ -4,21 +4,25 @@
 
 📛 My name is Shane Doucette.  
 
-📍 I am from Saskatoon, Saskatchewan, Canada.
+📍 I am from Saskatoon, Saskatchewan, Canada.  
 
-💻 Professionally, I am an IT Specialist at a little company called [zu](https://zu.com).
+💻 Professionally, I am an IT Specialist at a little company called [zu](https://zu.com).  
 
-🧔🏻‍♂️ Personally, I like to...
-- 📖 read
-- ▶️ play 
-  - 🎲 table-top games
-  - 🗡 role playing games
-  - 🎮 video games
-- 🚴‍♀️ ride my bike for exercise and fun
-- 📷 practice photography
+🧔🏻‍♂️ Personally, I like to...  
+- 📖 read  
+- ▶️ play...  
+  - 🎲 table-top games  
+  - 🗡 role playing games  
+  - 🎮 video games  
+- 👨‍🍳 cook...  
+  - 🍳 breakfast (my omelettes are delicious)  
+  - 🥪 sandwiches  
+  - 🍔 🍝 🍗 🥞 🌮 really, anything fun and yummy  
+- 🚴‍♀️ ride my bike for exercise and fun  
+- 📷 practice photography  
 
 🏄‍♀️ I've been hanging around on the Internet long enough that I think Internet should be capitalised. I think I'll settle here for a spell.  
 
-📧 If you'd like to talk with me, you can reach me at shane «at» doucette «dot» org.
+📧 If you'd like to talk with me, you can reach me at shane «at» doucette «dot» org.  
 
-[😻](cat.jpg)
+[😻](cat.jpg)  
