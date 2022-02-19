@@ -8,7 +8,7 @@
 
 💻 Professionally, I am an IT Specialist<!--at a not so little company called [7shifts](https://7shifts.com)-->.  
 
-🧔🏻‍♂️ Personally, I like to...  
+🧔🏻 Personally, I like to...  
       📖 read  
       🚴‍♀️ ride my bike for exercise and fun  
       📷 practice photography  
