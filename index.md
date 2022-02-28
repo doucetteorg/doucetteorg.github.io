@@ -6,7 +6,7 @@
 
 📍 I live in Saskatoon, Saskatchewan, Canada.  
 
-💻 Professionally, I am an IT Specialist<!--at a not so little company called [7shifts](https://7shifts.com)-->.  
+💻 Professionally, I am an IT Specialist at a not so little company called [7shifts](https://7shifts.com).    
 
 🧔🏻 Personally, I like to...  
       📖 read  
