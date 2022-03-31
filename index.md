@@ -2,7 +2,7 @@
 
 👋 Hello.  
 
-📛 My name is Shane Doucette.  
+📛 My name is Shane Doucette, and my pronouns are he/him.
 
 📍 I live in Saskatoon, Saskatchewan, Canada.  
 
