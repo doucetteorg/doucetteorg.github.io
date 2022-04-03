@@ -2,12 +2,18 @@
 
 👋 Hello.  
 
-📛 My name is Shane Doucette, and my pronouns are he/him.
+📛 My name is Shane Doucette (he/him).
 
 📍 I live in Saskatoon, Saskatchewan, Canada.  
 
-💻 Professionally, I am an IT Specialist at a not so little company called [7shifts](https://7shifts.com).    
-
+💻 Professionally, I am an IT Specialist at a not so little company called [7shifts](https://7shifts.com). There, with my fellow IT Specialists, I do things like...
+      💻 Administer our fleet of Mac computers with JAMF
+      💾 Manage a wide variety of software and services
+      🌐 Oversee our network infrastructure
+      👨🏻‍💻 Write scripts and other code to facilitate all of this and more
+      And most importantly...
+      🙋‍♀️ Empower people to work at their best with the computing tools at their disposal
+       
 🧔🏻 Personally, I like to...  
       📖 read  
       🚴‍♀️ ride my bike for exercise and fun  
@@ -27,4 +33,4 @@
 
 [😻](assets/images/cat.jpg)  
 
-([About the favicon](about-favicon.txt))
+([About the favicon](about-favicon.html))
