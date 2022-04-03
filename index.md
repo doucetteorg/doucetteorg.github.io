@@ -6,7 +6,7 @@
 
 📍 I live in Saskatoon, Saskatchewan, Canada.  
 
-💻 Professionally, I am an IT Specialist at a not so little company called [7shifts](https://7shifts.com). There, with my fellow IT Specialists, I do things like...
+💻 Professionally, I am an IT Specialist at a not so little company called [7shifts](https://7shifts.com). There, with my fellow IT Specialists, I do things like...  
       💻 Administer our fleet of Mac computers with JAMF  
       💾 Manage a wide variety of software and services  
       🌐 Oversee our network infrastructure  
