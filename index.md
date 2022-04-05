@@ -12,7 +12,8 @@
       🌐 Oversee our network infrastructure  
       👨🏻‍💻 Write scripts and other code to facilitate all of this and more  
       And most importantly...  
-      🙋‍♀️ Empower people to work at their best with the computing tools at their disposal         
+      🙋‍♀️ Empower people to work at their best with the computing tools at their disposal  
+      
 🧔🏻 Personally, I like to...  
       📖 read  
       🚴‍♀️ ride my bike for exercise and fun  
