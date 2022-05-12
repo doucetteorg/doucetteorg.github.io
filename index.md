@@ -27,8 +27,20 @@
             🥪 sandwiches  
             🍔 🍝 🍗 🥞 🌮 really, anything fun and yummy  
 
-🏄‍♀️ I've been hanging around on the Internet long enough that I think Internet should be capitalised. I think I'll settle here for a spell.  
+🏄‍♀️ I've been hanging around on the Internet long enough that I think Internet should be capitalised. I think I'll settle here for a spell.
+
+🤓 In fact, here's my Geek Code Block:
+```
+-----BEGIN GEEK CODE BLOCK-----
+  Version: 3.12
+  GCS/FA d- s: a+ C++++$ ULBX++++$ P++++ L++ E--- W+++$ N+ o K++ w+ O? 
+  M++$ V PS++ PE- Y+＞++ PGP+ t++ 5 X++ R++＞$ tv+ b+(++++) !DI D++ G++ 
+  e++(*) h---- r% y?(**)
+------END GEEK CODE BLOCK------
+```
 
 📧 If you'd like to talk with me, you can reach me at shane «at» doucette «dot» org.  
+
+
 
 [😻](assets/images/cat.jpg)  
