@@ -1,10 +1,6 @@
-### Welcome to the web home of Shane Doucette
+### 👋 Hello, my name is **Shane Doucette** (he/him).
 
-👋 Hello.  
-
-📛 My name is **Shane Doucette** (he/him).
-
-📍 I live in Saskatoon, Saskatchewan, Canada.  
+#### 📍 I live in Saskatoon, Saskatchewan, Canada.  
 
 💻 Professionally, I am an IT Specialist at a not so little company called [7shifts](https://7shifts.com). There, with my fellow IT Specialists, I do things like...  
       💻 Administer our fleet of Mac computers with JAMF  
