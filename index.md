@@ -1,6 +1,6 @@
 👋 Hello.  
 
-📛 My name is Shane Doucette (he/him).
+📛 My name is **Shane Doucette** (he/him).
 
 📍 I live in Saskatoon, Saskatchewan, Canada.  
 
