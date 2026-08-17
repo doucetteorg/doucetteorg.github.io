@@ -4,8 +4,8 @@
 
 💻 Professionally, I am an IT Specialist at a not so little company called [7shifts](https://7shifts.com). There, with my fellow IT Specialists, I do things like...  
       💻 Administer our fleet of Mac computers with JAMF  
-      💾 Manage a wide variety of software and services  
-      🌐 Oversee our network infrastructure  
+      💾 Manage a wide variety of software and services such as Okta, Workato, Google Workspace, and numerous others  
+      🌐 Oversee our network infrastructure with Meraki and UniFi tools  
       👨🏻‍💻 Write scripts and other code to facilitate all of this and more  
       And most importantly...  
       🙋‍♀️ Empower people to work at their best with the computing tools at their disposal  
