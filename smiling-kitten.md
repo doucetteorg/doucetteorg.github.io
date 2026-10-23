@@ -1,6 +1,6 @@
 Oh, here's a smiling kitten for you!
 
-[![A kitten with a human smile.](assets/images/cat.jpg)]
+![A kitten with a human smile.](assets/images/cat.jpg)
 
 But, you may ask, why a smiling kitten? 
 
